@@ -6,5 +6,4 @@ def is_even(k):
     else:
         return is_even(k-2)
 
-
 print(is_even(127))
